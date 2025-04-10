@@ -1,6 +1,6 @@
 # 📝 BlogApp - Omnify
 
-A simple and elegant blog application built using **React.js** that allows users to **Sign Up**, **Login**, and **Create, Edit, or Delete blogs**. This is a fully client-side app using **LocalStorage** for storing user data and blogs.
+A simple and elegant blog application built using MERN that allows users to **Sign Up**, **Login**, and **Create, Edit, or Delete blogs**. This is a fullstack app for storing user data and blogs.
 
 ---
 
