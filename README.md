@@ -6,10 +6,10 @@ A simple and elegant blog application built using MERN that allows users to **Si
 
 ## 🚀 Features
 
-- 🔐 **Authentication** (Signup & Login using LocalStorage)
+- 🔐 **Authentication** (Signup & Login)
 - 🖊️ **Create, Edit, and Delete blogs**
 - 🖼️ **Image Upload Support**
-- 🗃️ Blogs persist between page reloads using LocalStorage
+- 🗃️ Blogs persist between page reloads
 - 📱 Fully responsive and clean UI
 
 ## 📦 Installation & Running the App Locally
